@@ -1,4 +1,4 @@
-# Register + Login With React & SQL (FrontEnd)
+# Register + Login With React & SQL (BackEnd)
 
 Here is the back end of the project, here, the data is processed and stored in the database locally.
 ## Notices ⚠️
