@@ -13,12 +13,6 @@ You must update the DB access credentials with your own credentials.
 
 ## Running locally 🚀
 
-Clone the project
-
-```bash
-git clone https://github.com/ruantsdo/react-sql
-```
-
 Enter the client directory
 
 ```bash
@@ -40,7 +34,6 @@ npm start
 ## Technologies used ⚡
 
 **Front-end:** ReactJS
-
 
 ## Authors 👥
 - [@ruantsdo](https://github.com/ruantsdo)
